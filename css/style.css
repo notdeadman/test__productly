@@ -9,6 +9,10 @@ body{
     font-size: 16px;
     line-height: 26px;
     color: #544837;
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
 }
 .container{
     max-width: 1124px;
@@ -32,7 +36,10 @@ body{
     margin-left: 24px;
 }
 .menu__list-link{
-
+    color: #2F281E;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
 }
 
 
