@@ -4,6 +4,7 @@
 }
 
 
+
 .container{
     max-width: 1124px;
     margin-left: auto;
@@ -21,7 +22,7 @@
 .menu__list{
     display: flex;
     justify-content: space-between;
+    background-color: aquamarine;
+    color: aliceblue;
 }
-a{
-    
-}
+
