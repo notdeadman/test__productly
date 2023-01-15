@@ -76,8 +76,12 @@ a{
     background-color: #FF9900;
     color: #FFFFFF;
 }
-.top{
+
+.top__inner{
     padding: 133px 0 80px;
+    background-image: url(../images/main__image.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .top__title{
     font-size: 44px;
@@ -120,7 +124,9 @@ a{
     height: 19px;
     background-image: url('../images/play-video.svg');
 }
-aezakmi
+
+
+
 
 
 
